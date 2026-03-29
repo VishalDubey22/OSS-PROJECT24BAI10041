@@ -1,8 +1,7 @@
 # OSS Capstone Project: The Open Source Audit
 
-**Name:** Udayraj Patil 
-**Reg No:** 24BCE11159
-**Slot:** A24
+**Name:** VISHAL DUBEY
+**Reg No:** 24BAI10041
 **Course:** Open Source Software  
 **College:** VIT Bhopal University 
 
