@@ -1,7 +1,7 @@
 #!/bin/bash
 # Script 1: System Identity Report
-# Author: UDAYRAJ PATIL
-# Registration: 24BCE11159
+# Author: VISHAL DUBEY
+# Registration: 24BAI10041
 # Course: Open Source Software
 # Description: Generates a welcome screen detailing the system identity.
 
