@@ -6,7 +6,7 @@
 # Description: Generates a welcome screen detailing the system identity.
 
 # --- Variables ---
-STUDENT_NAME="Udayraj Patil"
+STUDENT_NAME="VISHAL DUBEY"
 SOFTWARE_CHOICE="Git"
 
 # System info using command substitution $()
